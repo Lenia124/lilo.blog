@@ -7,8 +7,6 @@ image = "img_4838-1-1-.jpg"
 +++
 ![Betriebsleiter Florin Hofer, im Hintergrund Wildschwein Gudrun. ](img_4838-1-1-.jpg)
 
-# Es geht gar nicht darum, Mitleid zu haben 
-
 Der 34-jährige Florin Hofer ist Betriebsleiter zweier inklusiver Restaurants in Bern. Im Interview erzählt er über Inklusion und wo unsere Gesellschaft heute steht.
 
 Lenia Aeschbacher & Emilia Lewis
@@ -42,10 +40,6 @@ Sie verlassen uns nicht so schnell, und wenn, dann nicht so gerne. Sie sind sehr
 **Was wünschen Sie sich von der Gesellschaft, um inklusives Arbeiten weiter zu fördern?**  
 
 Man hat gemerkt, dass der Arbeitsmarkt sich in der Zukunft weiter verändern wird. Wenn immer alles gleich bleibt, dann entwickelt man sich auch nicht weiter. Und das bedeutet Stillstand, und Stillstand macht alt, auch im Kopf. Ich finde, dass der Wandel, in dem wir gerade drin sind, viel Raum bietet, weil sich das Grundverständnis für viele Sachen verändert. Unsere Nachkommen sollen auch auf dieser Welt leben können und da muss sich die Arbeitswelt auch mitverändern. In der Gesellschaft ist es sehr wichtig, dass das Thema immer wieder zu einem Politikum wird. Doch reden allein reicht nicht. Man muss den Mut beweisen, es einfach zu probieren, mit der Gefahr zu scheitern. Aber scheitern heisst ja nicht, dass man etwas Schlechtes macht, sondern dass man etwas versucht hat. Unsere Gesellschaft muss im Kern mehr Mut beweisen. Die inklusive Arbeit gibt auch die Chance, mehr Mut zu zeigen.
-
-
-
-
 
 {{<box>}}
 
