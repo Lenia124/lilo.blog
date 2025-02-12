@@ -4,7 +4,7 @@ date = "2023-01-01"
 draft = true
 pinned = false
 tags = ["Lilo", "Example"]
-image = "/img/default-image.jpg"
+image = "whatsapp-bild-2023-06-09-um-19.05.09.jpg"
 description = "In diesem Artikel werden Möglichkeiten aufgezeigt für das Verfassen von Blogeinträgen."
 footnotes = "In der Fusszeile können zum Beispiel Bildquellen angegeben werden. Dieser Text ist abgetrennt durch eine Linie und etwas kleiner."
 +++
