@@ -3,6 +3,7 @@ title = "Es geht gar nicht darum, Mitleid zu haben."
 date = "2025-02-11"
 draft = false
 pinned = false
+image = "img_4838-1-1-.jpg"
 +++
 ![Betriebsleiter Florin Hofer, im Hintergrund Wildschwein Gudrun. ](img_4838-1-1-.jpg)
 
