@@ -4,7 +4,7 @@ date = "2025-02-11"
 draft = false
 pinned = false
 +++
-![](img_4838-1-1-.jpg)
+![Betriebsleiter Florin Hofer, im Hintergrund Wildschwein Gudrun. ](img_4838-1-1-.jpg)
 
 # Es geht gar nicht darum, Mitleid zu haben 
 
