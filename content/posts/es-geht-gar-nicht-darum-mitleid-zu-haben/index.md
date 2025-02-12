@@ -5,10 +5,6 @@ draft = false
 pinned = false
 image = "img_4838-1-1-.jpg"
 +++
-![Betriebsleiter Florin Hofer, im Hintergrund Wildschwein Gudrun. ](img_4838-1-1-.jpg)
-
-
-
 
 
 {{<lead>}}
@@ -18,6 +14,8 @@ Der 34-jährige Florin Hofer ist Betriebsleiter zweier inklusiver Restaurants in
 {{</lead>}}
 
 Lenia Aeschbacher & Emilia Lewis
+
+![Betriebsleiter Florin Hofer, im Hintergrund Wildschwein Gudrun. ](img_4838-1-1-.jpg)
 
 Ein Wildschwein beobachtet die Hereintretenden. Doch nicht nur es ist aufmerksam, wir werden sofort freundlich von einer Mitarbeiterin begrüsst. Wir befinden uns in einem geräumigen, heimelig eingerichteten Raum. Aus der Küche weht ein himmlischer Duft. Auf unsere Frage nach dem Betriebsleiter zeigt die Mitarbeiterin auf einen geschäftigen Mann mit dunkelblonden Haaren und Brille. Er sitzt an einem der Tische des menschenleeren Restaurants. Freundlich werden wir begrüsst, er bietet uns sofort das Du an. Später wird er darüber lachen, wenn wir ihn aus Gewohnheit siezen.
 
